@@ -1,2 +1,2 @@
 # advent-of-code
-completed for
+completed for artificial.io work experience.
