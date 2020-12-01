@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.ArrayList;
 
-class Task2 {
+class Task2_Day1 {
     static String input = """
         1772
         1065
